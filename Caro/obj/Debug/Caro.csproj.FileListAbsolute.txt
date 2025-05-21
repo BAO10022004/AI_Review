@@ -1,0 +1,9 @@
+C:\Users\giaba\source\repos\Caro\bin\Debug\Caro.exe.config
+C:\Users\giaba\source\repos\Caro\bin\Debug\Caro.exe
+C:\Users\giaba\source\repos\Caro\bin\Debug\Caro.pdb
+C:\Users\giaba\source\repos\Caro\obj\Debug\Caro.csproj.AssemblyReference.cache
+C:\Users\giaba\source\repos\Caro\obj\Debug\Caro.Properties.Resources.resources
+C:\Users\giaba\source\repos\Caro\obj\Debug\Caro.csproj.GenerateResource.cache
+C:\Users\giaba\source\repos\Caro\obj\Debug\Caro.csproj.CoreCompileInputs.cache
+C:\Users\giaba\source\repos\Caro\obj\Debug\Caro.exe
+C:\Users\giaba\source\repos\Caro\obj\Debug\Caro.pdb
